@@ -1,0 +1,33 @@
+{
+    "2.39" : {
+        "read" : "c70",
+        "write" : "700",
+        "__libc__start_call_main" : "f90"
+    },
+    "2.38" : {
+        "read" : "3f0",
+        "write" : "e80",
+        "__libc__start_call_main" : "f50"
+    },
+    "2.37" : {
+        "read" : "cb0",
+        "write" : "d50",
+        "__libc__start_call_main" : "b10"
+    },
+    "2.36" : {
+        "read" : "c30",
+        "write" : "cd0",
+        "__libc__start_call_main" : "4d0"
+    },
+    "2.35" : {
+        "read" : "840",
+        "write" : "8e0",
+        "__libc__start_call_main" : "4d0"
+    },
+
+    "2.31" : {
+        "read" : "1e0",
+        "write" : "280",
+        "__libc__start_call_main" : "none"
+    }
+}

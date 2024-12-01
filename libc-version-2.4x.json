@@ -1,0 +1,7 @@
+{
+    "2.40" : {
+        "read" : "e60",
+        "write" : "8f0",
+        "__libc__start_call_main" : "0b0"
+    }
+}
